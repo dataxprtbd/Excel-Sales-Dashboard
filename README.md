@@ -28,8 +28,7 @@ The dashboard design, implementation, and customization were done by me (DataXpr
 ---
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your dashboard here once uploaded)*  
-```markdown
 ![Dashboard Screenshot](Dashboard-Screenshot.png)
+
 
 
